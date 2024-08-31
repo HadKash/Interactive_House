@@ -23,4 +23,8 @@
 # You can use the arrow keys for movement as well
 # Use the mouse click to interact with certain objects
 # Click into the screen at the start to enable movement
+
+# BUILD ACCESS
+# You can download and play the latest build of the game from the following link:
+# [Download Build](https://drive.google.com/drive/folders/1-QK2dgDIiYIQ8MFIiEZmT0VP7ao0Mqz7?usp=sharing)
 # Please enjoy!
