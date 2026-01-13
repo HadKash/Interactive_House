@@ -30,4 +30,4 @@ You can download and play the latest build of the game from the following link:
 Please enjoy!
 
 # DEMO
-
+https://drive.google.com/file/d/1lujoYZuXzXWyPqI521yYqLQa9QTyF3Tp/view?usp=sharing
