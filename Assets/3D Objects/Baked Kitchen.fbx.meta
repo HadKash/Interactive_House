@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 82ada5acbe6a74d48a0eccfc7ae9f774
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backspalsh.001
+    second: {fileID: 2100000, guid: d929d25b226e91c4889c61b248a2d9a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base darkest wood
+    second: {fileID: 2100000, guid: 3d4669b28a23ab14a877270776600e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base lighter wood
+    second: {fileID: 2100000, guid: da9cb7e3fad63924da1a53aed1df165c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basket buns
+    second: {fileID: 2100000, guid: 8f9fe54a512ba694888a07705f5cb512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bear arm.001
+    second: {fileID: 2100000, guid: 69dbc8509f155304abc5650f60f0f866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackberry.001
+    second: {fileID: 2100000, guid: e74b5fcb6cbb4c245b87f0d81650515d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue ceramic rubber.001
+    second: {fileID: 2100000, guid: 431973835a4fba9479b9c7d683a0dd4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue ceramic.001
+    second: {fileID: 2100000, guid: 0384952684a0c9e48971e81997230a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue cup.001
+    second: {fileID: 2100000, guid: eb5d5e2b7bda1f1488f660709804f3c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue metal.001
+    second: {fileID: 2100000, guid: 37037d5b9714a6d4a88b08599889e7ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blueberry label.001
+    second: {fileID: 2100000, guid: 78115d9ce642f5e4b9ff2485f7525c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blueberry syrup.001
+    second: {fileID: 2100000, guid: e1781ced79156274d90277c1763a367b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book leather.002
+    second: {fileID: 2100000, guid: 9366ff886377fb6478ceaf2006ca461c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book leather.003
+    second: {fileID: 2100000, guid: 18cb80b572b0691488d0a18bcb154fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bowtie.001
+    second: {fileID: 2100000, guid: 41954f868f599bf42a679394b31eb843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze burger tray
+    second: {fileID: 2100000, guid: 8b28284f018080e47b1b530b6f9b58da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze cabinet handle
+    second: {fileID: 2100000, guid: 8c1cbdb8c1a7af8438be9c76716dc038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze drawer handle
+    second: {fileID: 2100000, guid: 42def43f4b30265419aab93581b00b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze kitchen faucet
+    second: {fileID: 2100000, guid: 864ad71a7822af44e987132772aa8c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze lower cabinet handle
+    second: {fileID: 2100000, guid: 37f07bb57515e234e9f4a85f3c9148cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze mid drawer handle
+    second: {fileID: 2100000, guid: 525b3cf6d44cedf4d86437a96224d81a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze side table.002
+    second: {fileID: 2100000, guid: 7457f66d1b3002a48880f70915c9be6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze.013
+    second: {fileID: 2100000, guid: ab8c0f4eb93749044ad488a6db4f71e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze.014
+    second: {fileID: 2100000, guid: 4ab03121636eefa42afb19c01d7b062f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze.015
+    second: {fileID: 2100000, guid: 9242a6838a6ba3c45ab773ef50ae20f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze.016
+    second: {fileID: 2100000, guid: ff955bb685b2a054ba01683015046f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze.017
+    second: {fileID: 2100000, guid: 370d4a181f1e0504a8ab7499a2636369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buns.001
+    second: {fileID: 2100000, guid: 6abc2928ad5a6b549a587a71fce40257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: burger tray wood
+    second: {fileID: 2100000, guid: 27231ad44637bfb498974cf6c02cf47a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinet blue wood
+    second: {fileID: 2100000, guid: fb2118ed8b2cf95409da85b9f25852eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinet bronze
+    second: {fileID: 2100000, guid: e1af0e177d03b3e42a7ba096c8224a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cakes.001
+    second: {fileID: 2100000, guid: 37dcd317a60bb22488b479b4b2fb07ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cheeks.001
+    second: {fileID: 2100000, guid: 1c3ef5abe6542eb43ab963dc467fd2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cherry label.001
+    second: {fileID: 2100000, guid: 0b12d3e101fdaf24cbc625d1adaf9631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cherry syrup.001
+    second: {fileID: 2100000, guid: 96ba2ebd549bcbc4ea24c6616e4fb021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cream milk.001
+    second: {fileID: 2100000, guid: 9940a62836f48e74ea73165952317d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cumin.001
+    second: {fileID: 2100000, guid: 32a9e42d4d6d00445a5e03b4291e2df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark blue bowl
+    second: {fileID: 2100000, guid: 795d3bba9f4fa334b8facb8e8997cc66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark wood.001
+    second: {fileID: 2100000, guid: 0a1f27d86209e1d47b75d9e487c625bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duck face.001
+    second: {fileID: 2100000, guid: 1e1d0cea8177927468ae888bb38c40c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duck pic.003
+    second: {fileID: 2100000, guid: 6db86feffbecf724b9a95a7c24797db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duck pic.004
+    second: {fileID: 2100000, guid: e54f134cdf543f44baacf1169b29fc02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: duck pic.005
+    second: {fileID: 2100000, guid: d8b2e66c5910b5848ba86487a59c7362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: egg whites.001
+    second: {fileID: 2100000, guid: 02ccba055a8f37240bcb70538bd906f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: egg yolk.001
+    second: {fileID: 2100000, guid: 6fa7d6dc28769a24ca02b57ca0ba8e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: egg.001
+    second: {fileID: 2100000, guid: 7cde8eae377274e48be626c2a8d9a835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes.001
+    second: {fileID: 2100000, guid: a43782d208f7c3a4790a7f65c6bbb7a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flame.001
+    second: {fileID: 2100000, guid: 38304e0ae4af5ab42b9b8d74f688405d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frosting.003
+    second: {fileID: 2100000, guid: dd9eb3afa401d874cb62b80e8788163a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frosting.004
+    second: {fileID: 2100000, guid: 163da1c865d3c524fb7e56edbe14da53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frosting.005
+    second: {fileID: 2100000, guid: 8571f3722f0ea4746a8ab02d0e0b6047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hat.001
+    second: {fileID: 2100000, guid: af7baafd72f4b4043a01226dde1073c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp light.001
+    second: {fileID: 2100000, guid: 2a012bc7d051018439176b74cb65f159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp shade.001
+    second: {fileID: 2100000, guid: 7de4588565cec2d42ac31ce2388dea3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large shelf dark wood
+    second: {fileID: 2100000, guid: f1b23654aee3635419e4122754e54c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large shelf wood
+    second: {fileID: 2100000, guid: e72ffd223b98cbb429eb8b2b1f4986a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaves.001
+    second: {fileID: 2100000, guid: 98bef89c1968ef3408b4a0dbe17810bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lettuce.001
+    second: {fileID: 2100000, guid: f9e525787678d1b4ba4abdde24953f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light blue metal.001
+    second: {fileID: 2100000, guid: d562654f06ca5a14bb04d9ff01be9ba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light pink ceramic.001
+    second: {fileID: 2100000, guid: fdeab7539574a944694c227e391900f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light purple ceramic.001
+    second: {fileID: 2100000, guid: 950b363dfad195f4bbfdce056d19c0ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light purple rubber.001
+    second: {fileID: 2100000, guid: 45373371f84e44b4baf8f7e663dc9cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light wood cutting board
+    second: {fileID: 2100000, guid: 91be82f0c2dd56447b97dfc77e397e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light wood.002
+    second: {fileID: 2100000, guid: f9552d0e50d12ec4b9570f7c4859e1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.001
+    second: {fileID: 2100000, guid: 712b69621319c714d81fa7db9509bf02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lighter wood.003
+    second: {fileID: 2100000, guid: 8576529486dca0c4fb0c3e326e4d4640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower cabinet blue wood
+    second: {fileID: 2100000, guid: 27797112df144c146960c7723b826001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower cabinet light wood
+    second: {fileID: 2100000, guid: 20b6d50424a646e47b724a9538026338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower cabinet lighter wood
+    second: {fileID: 2100000, guid: cb0f558ecfaed0f428659178d559d268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower drawer blue wood
+    second: {fileID: 2100000, guid: d34d7c16a7969c147a04fe36472f765b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower right blue wood cabinet
+    second: {fileID: 2100000, guid: 4ac601a555617ff4b8af75b7242638d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower right cabinet light wood
+    second: {fileID: 2100000, guid: d5a0b0aefe9b2c242a72ec111c848735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meat.001
+    second: {fileID: 2100000, guid: 4b76e8cb086462448aa7db35a3e83581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mid drawer blue wood
+    second: {fileID: 2100000, guid: 99653f1a44248484ca3d96ec848be8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mid drawer light wood
+    second: {fileID: 2100000, guid: d4c5399af0ad8094ca6e544edf8011ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: note.001
+    second: {fileID: 2100000, guid: 55d413cff9b61da4d9e582725ca0db79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oil.001
+    second: {fileID: 2100000, guid: 60a752736b6b6c04ab3d2e19166c6cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange cup.001
+    second: {fileID: 2100000, guid: d3f42908c8bc907469f4d6db36fd4ab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oven bronze
+    second: {fileID: 2100000, guid: a45a9c3e3888a654c96df21c708d6d81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pancakes.001
+    second: {fileID: 2100000, guid: c3ecc096cfc380f4d885b148101e7ab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: peach label.001
+    second: {fileID: 2100000, guid: 369ecce0ddc701d44ae3e5500dd025a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pepper.001
+    second: {fileID: 2100000, guid: 916bf18929d4e084b8281cf0c802666c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pic frame.003
+    second: {fileID: 2100000, guid: 9e9cbb6b4cf212f4c9577994d5573014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pic frame.004
+    second: {fileID: 2100000, guid: f9e32b81afc50424c888f98c12525734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pic frame.005
+    second: {fileID: 2100000, guid: 565563ea3b92fc8459448c2651dc8c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink ceramic rubber.001
+    second: {fileID: 2100000, guid: 6c5af949496b4b348813510020bf1c15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink ceramic.001
+    second: {fileID: 2100000, guid: a2929e20d56cb7549ba0f9fee4dc5aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink cup.001
+    second: {fileID: 2100000, guid: 330be97dd20e02449b2bb9102271c007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pink plate_
+    second: {fileID: 2100000, guid: a47dd09c84c1c114aa64a955e86896a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaid.002
+    second: {fileID: 2100000, guid: d54074aa0fd87e94b971c5dcb5d9f57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaid.003
+    second: {fileID: 2100000, guid: bb25ca148cba8154385be999b5cc0d13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poppy.005
+    second: {fileID: 2100000, guid: 3c51abc7907a94d4fbc7c0a4b72b377e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poppy.006
+    second: {fileID: 2100000, guid: 4474dee79af8a734693150e99712156a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelain.001
+    second: {fileID: 2100000, guid: 56a800a89aaa8174a9a75443375bba9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pouch.001
+    second: {fileID: 2100000, guid: 59c184fd769ecd6479d7bae0a4efe290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple ceramic.001
+    second: {fileID: 2100000, guid: e4964577ec8074f49b5ef04bf8c7e96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple cup.001
+    second: {fileID: 2100000, guid: 65b4035964c8940499f9335267571b11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple metal.001
+    second: {fileID: 2100000, guid: 5d0477028d141aa4c9137a84b69a2d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red pepper.001
+    second: {fileID: 2100000, guid: 787b7cdccaad802448b1c0507b378965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ribbon.001
+    second: {fileID: 2100000, guid: 1f637db05732bbd46ae9e56b84794625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rug.001
+    second: {fileID: 2100000, guid: c3814725b48a053478e7211d03282572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sesame seed.001
+    second: {fileID: 2100000, guid: 5d013ffa2f0a8774ea351e40f478252c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shaker.001
+    second: {fileID: 2100000, guid: 5b6333bd0a2678241a6f9152bca3d84e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelf dark wood
+    second: {fileID: 2100000, guid: bde2c80d64991634daafd05064df9138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stem.005
+    second: {fileID: 2100000, guid: c241dd80971132a4684257cee1bc88b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stool dark wood
+    second: {fileID: 2100000, guid: 97f4aeb9a928812469d0e41b11960265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strawberry milk.001
+    second: {fileID: 2100000, guid: b544f8f2108769044b9c28a179e88b5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strawberry.001
+    second: {fileID: 2100000, guid: c590937e4215d624e8b734f8a3372326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: syrup.001
+    second: {fileID: 2100000, guid: c31499ae720f39443a6d508cb91f0da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tomatoes.002
+    second: {fileID: 2100000, guid: 904e949589afb5b428daa765ded9628e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tomatoes.003
+    second: {fileID: 2100000, guid: 55c96f5b88a40614184bea6311d0ab7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top drawer blue wood
+    second: {fileID: 2100000, guid: 47b7fb62d4d1a2e4284d74fd7bf22e81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top drawer light wood
+    second: {fileID: 2100000, guid: 4e33bb8913f625143b0832b1679c3456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turmeric.001
+    second: {fileID: 2100000, guid: 1359c07f44ad97e42a2283ed9628a65b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water.003
+    second: {fileID: 2100000, guid: a38052f0ea7a82b48a5075d07850a738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood floorboards
+    second: {fileID: 2100000, guid: b735138c53bb6fb4da00273a55c1e9f8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

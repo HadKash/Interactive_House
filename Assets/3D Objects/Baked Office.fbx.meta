@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 52763c43424c7f048aaca896818e1b56
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black metal.001
+    second: {fileID: 2100000, guid: 09c0d212d883bbc4b94b4b9fb2cd9a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze side table
+    second: {fileID: 2100000, guid: bedd432d85705ac418194595e4e42424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze side table.001
+    second: {fileID: 2100000, guid: 706ed4a682fd0a74a9ea9dcc5ea3f0d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze trashcan
+    second: {fileID: 2100000, guid: 5fc374afca8a57e468bc87ea82c271f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bronze.012
+    second: {fileID: 2100000, guid: ad26a23b312182a4b877cf7a5dbdd72f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown fabric.001
+    second: {fileID: 2100000, guid: 82aaff8082544d941aba142f48d31ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown leather.001
+    second: {fileID: 2100000, guid: a1c8e361af2bfb94dbda7e14259e7be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cactus.002
+    second: {fileID: 2100000, guid: 488dc1d035d473043b62854c704a644c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cactus.003
+    second: {fileID: 2100000, guid: b4d2a4d01378a5d429e1ea83b03050fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clear glass.001
+    second: {fileID: 2100000, guid: b59c061873f9e7844a0f8c19009a660e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: computer base.004
+    second: {fileID: 2100000, guid: af3d8669074a9b149b740d682c85549c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: computer base.005
+    second: {fileID: 2100000, guid: 06b6bc4e29188294684179ad0e06e3c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: computer base.006
+    second: {fileID: 2100000, guid: 3bc89f894b772f04cb91394b24991130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark metal teal.001
+    second: {fileID: 2100000, guid: b74ef72e6cc47784696866d470dd555c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark pink leather.001
+    second: {fileID: 2100000, guid: 1ee1ce2d7b7754b4da74615a8c4beac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark teal glass.001
+    second: {fileID: 2100000, guid: e6c92223576eb3b45aa1bd6616ef1576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark teal leather.001
+    second: {fileID: 2100000, guid: 225d3a362c64deb4fb2c4ce75a3ddaed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkest teal glass.001
+    second: {fileID: 2100000, guid: 9dfda8cefb5d73c4d929260ef8e685d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkest wood.001
+    second: {fileID: 2100000, guid: 76ff42ce0d1c8cd41b102453d170803c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: golden glass.001
+    second: {fileID: 2100000, guid: 305add2bccbc5fd47a0f1fe7af78e5da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: golden metal.001
+    second: {fileID: 2100000, guid: 488d3eec9ce764147b537206a01cc8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: golden plant potter.001
+    second: {fileID: 2100000, guid: def68cf63b07b1b4b8a18e9757b3cf6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: golden yellow fabric.001
+    second: {fileID: 2100000, guid: 017726e513c779c4a975538aaa44e727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heart stamp.003
+    second: {fileID: 2100000, guid: 6437d0b1a2e528243b244e5c3e29c839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heart stamp.004
+    second: {fileID: 2100000, guid: dc90d74f15a1a414e8d22f97d485a38c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heart stamp.005
+    second: {fileID: 2100000, guid: d2a25f7299323d24bbc10ff09709f47e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light purple leather.001
+    second: {fileID: 2100000, guid: 598be95b1b98b8648bf48711c24b0a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light teal sofa fabric.001
+    second: {fileID: 2100000, guid: af6aef2b6ce16ba4da0d874ab5d7b328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light wood floor planks
+    second: {fileID: 2100000, guid: e84d78ad04e8a094090a27026ed50997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light wood.001
+    second: {fileID: 2100000, guid: 8ec188e5d4573db458e4e9989a5a9d7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lighter wood.001
+    second: {fileID: 2100000, guid: eae4ef7a97cede14d8a8e102a191d26d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lighter wood.002
+    second: {fileID: 2100000, guid: a2b3c982c90b18647b2c558cf53610df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightest teal glass.001
+    second: {fileID: 2100000, guid: b56ee459df516ff46a8597a614c130de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal pen.001
+    second: {fileID: 2100000, guid: 14c06f6d62da80e4196b84adee00b0c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange fabric.001
+    second: {fileID: 2100000, guid: db04688224c0393469cae4bc6817237f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange glass.001
+    second: {fileID: 2100000, guid: 20d7a4cddd7e111419b0fbf5d49e4729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange leather.001
+    second: {fileID: 2100000, guid: 1f02d5211576ad640a97555e23478f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pale yellow fabric.001
+    second: {fileID: 2100000, guid: 07d37ea4d18769347b11f664ad14d583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pale yellow leather.001
+    second: {fileID: 2100000, guid: a2d86b0e4bca76f41b563860dc76b35b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper.001
+    second: {fileID: 2100000, guid: 44496b35658a18e4a9d3c493a51b127f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pen cap.001
+    second: {fileID: 2100000, guid: 31a9e67b03f6798459595a2696c79f8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plant dirt.001
+    second: {fileID: 2100000, guid: a1b54fd662aaa124cb7a6fb890a4691a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red fabric.001
+    second: {fileID: 2100000, guid: 0ea5608bea1941e4595dc1cec57ed793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red glass.001
+    second: {fileID: 2100000, guid: f214f511ae8cf2846aa69d354383a252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red metal.001
+    second: {fileID: 2100000, guid: 96f80cd7011957447b3550ca0b34e386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red plant potter.001
+    second: {fileID: 2100000, guid: 65c2031d1ab79b94797b74458815a8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red wood bookshelf
+    second: {fileID: 2100000, guid: f5537c2547189984b8f71c16dc2b66c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red wood desk
+    second: {fileID: 2100000, guid: 354a0eb3fa130aa479d6d1b17ce5834f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red wood window border
+    second: {fileID: 2100000, guid: ad38b0a0217c356438fa502dad451e7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: retro images.002
+    second: {fileID: 2100000, guid: 53169a4b4f029b14e89b6f7fbfc9898b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: retro images.003
+    second: {fileID: 2100000, guid: 3d8eb810960e3c744b04df1d1630de25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small leaves.001
+    second: {fileID: 2100000, guid: e47b7e41e3411de43a3aff8d1886d6ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spikes.001
+    second: {fileID: 2100000, guid: 0e51455b72498884684460720724eba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stamp container.003
+    second: {fileID: 2100000, guid: 11b6e917a68c8b14bacefa1936d6b5d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stamp container.004
+    second: {fileID: 2100000, guid: a268bb5502b52794c9cd44f6a855ccf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stamp container.005
+    second: {fileID: 2100000, guid: dab5d3be8ada7454fbe0346265b8270f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: succulent.001
+    second: {fileID: 2100000, guid: 302a80bbdc729094a9e84bd16b27b178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teal book leather.001
+    second: {fileID: 2100000, guid: fe58bfb72b1b42f4c872d7b3553b030e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teal glass.001
+    second: {fileID: 2100000, guid: 705b26c1b6d9131499136f9f8e0edd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teal sofa fabric.003
+    second: {fileID: 2100000, guid: 704745510ebe7c04cb274be3ac843367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teal sofa fabric.004
+    second: {fileID: 2100000, guid: 168ad7800cfe0724698878257100316f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teal sofa fabric.005
+    second: {fileID: 2100000, guid: bb4dc0a404dbf7d4a8ced4b1068f9658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinyl.001
+    second: {fileID: 2100000, guid: 1e4ae9c2d0206a34988023fe36d0a26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood easel
+    second: {fileID: 2100000, guid: 8f70aa3cdab3a4046aaba613ca1cc305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood palette
+    second: {fileID: 2100000, guid: 7765780fffeca5b43be92348cf39696e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
